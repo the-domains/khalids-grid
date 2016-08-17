@@ -6,9 +6,9 @@ color:
   saturation: 0.6065506963059306
   rhythmicContrast: 0.9643602685537189
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Khalid's Grid
