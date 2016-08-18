@@ -1,14 +1,26 @@
-layout_spectrum: 0.09229662897996604
-typography_spectrum: 0.9432756677269936
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
-  brandStrength: 0.14421708602458239
-  lightness: 0.38051894772797823
-  saturation: 0.6065506963059306
-  rhythmicContrast: 0.9643602685537189
+  saturation: 0.6065507
+  brandStrength: 0.1442170860245824
+  lightness: 0.2114695
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  rhythmicContrast: 0.9643603
+layout_spectrum: 0.09229662897996604
 name: Khalid's Grid
